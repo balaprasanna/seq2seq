@@ -4,3 +4,5 @@ glove.6B.100d.txt
 glove.6B.200d.txt
 glove.6B.300d.txt
 glove.6B.50d.txt
+nmt_training_checkpoints/
+model_weights/
